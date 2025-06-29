@@ -1,0 +1,6 @@
+Mikä on tietoturvaloukkaus ja miten toimin jos epäilen sellaista? | Tietoturvaloukkaus on tilanne, jossa luottamuksellinen tieto voi vaarantua. Ilmoita havainnosta välittömästi tietoturvatiimille sähköpostilla tai IT-portaalin kautta.
+Saanko käyttää omaa muistitikkuani työkoneessa? | Et. Ulkoisten tallennuslaitteiden käyttö on kielletty ilman erillistä lupaa. Ne voivat sisältää haittaohjelmia tai vaarantaa tiedon luottamuksellisuuden.
+Miten tunnistan tietojenkalasteluyrityksen? | Ole varuillasi viesteistä, jotka pyytävät salasanoja, rahansiirtoja tai linkkejä kirjautumissivuille. Tarkista lähettäjän osoite ja älä koskaan jaa tunnuksia sähköpostilla.
+Miten toimin, jos kadotan työläppärin? | Ilmoita katoamisesta IT-tukeen ja tietoturvatiimille välittömästi. Laitteen etähallinta voidaan aktivoida ja tiedot suojata tai poistaa.
+Voiko työsähköpostia käyttää henkilökohtaiseen viestintään? | Ei. Työsähköpostia saa käyttää vain työasioihin. Henkilökohtainen viestintä tulee hoitaa omilla välineillä ja tileillä.
+Tarvitaanko kaksivaiheinen tunnistautuminen? | Kyllä. Kaikkiin yrityksen järjestelmiin kirjaudutaan kaksivaiheisella tunnistautumisella, joka sisältää salasanan ja mobiilisovelluksen vahvistuksen.

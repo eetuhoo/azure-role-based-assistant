@@ -1,0 +1,6 @@
+Miten saan uuden työläppärin? | Uuden työläppärin voi tilata täyttämällä IT-palvelupyynnön portaalissa. Laitteiden toimitusaika on 3–5 arkipäivää.
+Unohdin salasanani, mitä teen? | Jos olet unohtanut salasanasi, käytä salasananvaihtotyökalua tai ota yhteyttä IT-tukeen. Tarvitset todennuksen henkilöllisyydestäsi.
+Voinko asentaa ohjelmia itse? | Et. Kaikki ohjelma-asennukset tehdään keskitetysti IT:n toimesta tietoturvasyistä. Voit kuitenkin pyytää lisäohjelmia IT-portaalin kautta.
+Miten saan VPN-yhteyden toimimaan? | VPN-yhteyden käyttöön tarvitaan yrityksen VPN-ohjelma ja kaksivaiheinen tunnistautuminen. Ohjeet löytyvät intranetistä kohdasta IT-ohjeet.
+Miten saan Teamsin toimimaan ulkomailla? | Teams toimii normaalisti ulkomailla, mutta varmista että VPN-yhteys on aktiivinen ja internet-yhteys riittävän nopea.
+Kuka vastaa laitevaurioista? | IT-tuki kirjaa vauriot ja tarvittaessa toimittaa korvaavan laitteen. Työntekijä on vastuussa tahallisista tai huolimattomista vaurioista.
