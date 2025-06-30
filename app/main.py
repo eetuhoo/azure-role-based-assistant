@@ -33,7 +33,7 @@ class Query(BaseModel):
 
 @app.post("/ask/")
 def ask(query: Query):
-    with open("knowledge/hr_faq.txt") as f:
+    with open("../knowledge/hr_faq.txt") as f:
         knowledge = f.read()
 
     prompt = get_prompt(query.role, query.question, knowledge)

@@ -30,7 +30,7 @@ if __name__ == "__main__":
 
     search_client = SearchClient(endpoint, index_name, credential)
 
-    files = ["knowledge/hr_faq.txt", "knowledge/it_faq.txt", "knowledge/security_faq.txt"]
+    files = ["../knowledge/hr_faq.txt", "../knowledge/it_faq.txt", "../knowledge/security_faq.txt"]
 
     documents = []
     doc_id = 0
